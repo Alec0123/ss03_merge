@@ -1,5 +1,4 @@
 public class Musica {
-
     private String titulo;
     private int duracao;
     private String compositor;
@@ -8,18 +7,6 @@ public class Musica {
         this.titulo = titulo;
         this.duracao = duracao;
         this.compositor = compositor;
-    }
-
-    public String getTitulo() {
-        return titulo;
-    }
-
-    public int getDuracao() {
-        return duracao;
-    }
-
-    public String getCompositor() {
-        return compositor;
     }
 
     public void mostrarInformacoes() {
