@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Digite o nome do álbum: ");
+        System.out.println("Digite o nome do álbummmm: ");
         String nomeAlbum = scanner.nextLine();
         System.out.println("Digite o ano de lançamento do álbum: ");
         int anoAlbum = scanner.nextInt();
